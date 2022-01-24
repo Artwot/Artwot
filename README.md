@@ -4,19 +4,17 @@ I'm a software engineer and front-end developer who graduated from Instituto Tec
 
 ## My values
 
-🧠 Thoughtful & Inclusive Development
-⏱️ Responsibility 
-💡 Mindset of Learning & Curiosity
-🙌 Teamwork & Communication
-
-
+🧠 Thoughtful & Inclusive Development <br />
+⏱️ Responsibility <br />
+💡 Mindset of Learning & Curiosity  <br />
+🙌 Teamwork & Communication <br /> 
 
 ## Hobbies
 
-📖 Avid reader
-🎸 Musician 
-🎨 Enthusiastic Artist
-🍵 Tea lover
+📖 Avid reader <br />
+🎸 Musician  <br />
+🎨 Enthusiastic Artist <br />
+🍵 Tea lover <br />
 
 
 
