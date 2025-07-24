@@ -20,5 +20,4 @@ I'm a software engineer and front-end developer who graduated from Instituto Tec
 
 ## Connect with Me
 
-* [Portfolio](https://jasarabia.vercel.app/)
 * [LinkedIn](https://www.linkedin.com/in/jorge-arturo-sarabia/)
